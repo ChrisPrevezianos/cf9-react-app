@@ -13,4 +13,5 @@ const ArrowFunctionalComponentWithProps = (
         </>
     )
 }
+
 export default ArrowFunctionalComponentWithProps;
