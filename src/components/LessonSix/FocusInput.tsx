@@ -1,4 +1,4 @@
-import {useEffect, useRef} from "react";
+import {useRef} from "react";
 
 const FocusInput = () => {
     const inputRef = useRef<HTMLInputElement>(null);
